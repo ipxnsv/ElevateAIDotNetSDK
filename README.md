@@ -7,7 +7,7 @@
     <a href="https://www.elevateai.com">
       Website
     </a>
-    <span> | </span>
+    <span> | </span> 
     <a href="https://docs.elevateai.com">
       Documentation
     </a>
